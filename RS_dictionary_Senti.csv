@@ -1,0 +1,486 @@
+,english_words,roman_sindhi_words,Senti_Score,Subjectivity,Sentiment
+0,amplify,izafo krn,0.0,0.0,Do Not Know
+1,anger,gso,-0.7,0.2,Negative
+2,anger,guso,-0.7,0.2,Negative
+3,anger,kawar,-0.7,0.2,Negative
+4,anger,kawr,-0.7,0.2,Negative
+5,anxious,muntazir,-0.25,1.0,Negative
+6,anxious,sheedaee,-0.25,1.0,Negative
+7,anxious,sheedai,-0.25,1.0,Negative
+8,appropriate,munaasib,0.5,0.5,Positive
+9,artificial,masnooe,-0.6,1.0,Negative
+10,artificial,msnooe,-0.6,1.0,Negative
+11,artificial,naklee,-0.6,1.0,Negative
+12,artificial,naklee,-0.6,1.0,Negative
+13,artificial,nakli,-0.6,1.0,Negative
+14,artificial,nakli,-0.6,1.0,Negative
+15,artificial,nklee,-0.6,1.0,Negative
+16,artificial,nklee,-0.6,1.0,Negative
+17,artificial,nkli,-0.6,1.0,Negative
+18,augment,izafo krn,0.0,0.0,Do Not Know
+19,aware,ba shaoor,0.25,0.25,Positive
+20,aware,baashaoor,0.25,0.25,Positive
+21,aware,ba-shaoor,0.25,0.25,Positive
+22,bad,bchraee,-0.7,0.667,Negative
+23,bad,buchhraee,-0.7,0.667,Negative
+24,bad,buchhrai,-0.7,0.667,Negative
+25,bad,buchhro,-0.7,0.667,Negative
+26,bad,buchhro,-0.7,0.667,Negative
+27,bad,buro,-0.7,0.667,Negative
+28,bad,burrai,-0.7,0.667,Negative
+29,bad,burro,-0.7,0.667,Negative
+30,bad,kharaab,-0.7,0.667,Negative
+31,bad,kharab,-0.7,0.667,Negative
+32,bad,kharab,-0.7,0.667,Negative
+33,bad,khrab,-0.7,0.667,Negative
+34,bad,kino,-0.7,0.667,Negative
+35,bad,kino,-0.7,0.667,Negative
+36,bad,knno,-0.7,0.667,Negative
+37,bad,kno,-0.7,0.667,Negative
+38,bad,mathae,-0.7,0.667,Negative
+39,be useful,faedemand,0.3,0.0,Positive
+40,beautiful,khbsorat,0.85,1.0,Positive
+41,beautiful,khobsoorat,0.85,1.0,Positive
+42,beautiful,khoobsoorat,0.85,1.0,Positive
+43,beautiful,khoobsorat,0.85,1.0,Positive
+44,beautiful,sohni,0.85,1.0,Positive
+45,beautiful,suhnee,0.85,1.0,Positive
+46,beautiful,suhnee,0.85,1.0,Positive
+47,beautiful,suhni,0.85,1.0,Positive
+48,beneficial,faedemand,0.0,0.0,Do Not Know
+49,benefit,faedo,0.0,0.0,Do Not Know
+50,best,bhale me bhalo,1.0,0.3,Positive
+51,better,behter,0.5,0.5,Positive
+52,better,behtr,0.5,0.5,Positive
+53,better,bhalr,0.5,0.5,Positive
+54,better,bhtr,0.5,0.5,Positive
+55,big,waddo,0.0,0.1,Do Not Know
+56,big,wado,0.0,0.1,Do Not Know
+57,bitter,karro,-0.1,0.5,Negative
+58,bitter,karro,-0.1,0.5,Negative
+59,bitter,krro,-0.1,0.5,Negative
+60,black,kaaro,-0.167,0.433,Negative
+61,boost,tezee,0.0,0.0,Do Not Know
+62,boost,tezi,0.0,0.0,Do Not Know
+63,brave,bahadr,0.8,1.0,Positive
+64,brave,bahadur,0.8,1.0,Positive
+65,brave,delair,0.8,1.0,Positive
+66,brave,dilair,0.8,1.0,Positive
+67,brave,diler,0.8,1.0,Positive
+68,brave,dler,0.8,1.0,Positive
+69,careless,be-prwaah,-0.5,0.9,Negative
+70,careless,beprwah,-0.5,0.9,Negative
+71,careless,be-prwah,-0.5,0.9,Negative
+72,careless,beyprwah,-0.5,0.9,Negative
+73,certain,pkee,0.214,0.571,Positive
+74,certain,pki,0.214,0.571,Positive
+75,certain,pkk,0.214,0.571,Positive
+76,certain,pkkee,0.214,0.571,Positive
+77,certain,pkki,0.214,0.571,Positive
+78,certain,pkky,0.214,0.571,Positive
+79,cheerful,khush mizaaj,0.4,1.0,Positive
+80,cheerful,khush mizaj,0.4,1.0,Positive
+81,cheerful,khush-mizaaj,0.4,1.0,Positive
+82,cheerful,khush-mizaj,0.4,1.0,Positive
+83,clean,saaf suthro,0.367,0.7,Positive
+84,clean,saaf-suthro,0.367,0.7,Positive
+85,clever,hoshyaar,0.167,0.833,Positive
+86,clever,hshyaar,0.167,0.833,Positive
+87,clever,hushyaar,0.167,0.833,Positive
+88,come down,lahee ach,-0.156,0.289,Negative
+89,come down,lahi ach,-0.156,0.289,Negative
+90,come down,lhee ach,-0.156,0.289,Negative
+91,come down,pastee,-0.156,0.289,Negative
+92,come down,pstee,-0.156,0.289,Negative
+93,complete,mkmal,0.1,0.4,Positive
+94,complete,mukamal,0.1,0.4,Positive
+95,complete,mukammal,0.1,0.4,Positive
+96,complete,pooro,0.1,0.4,Positive
+97,complete,sajjo,0.1,0.4,Positive
+98,complete,sajo,0.1,0.4,Positive
+99,complete,sjjo,0.1,0.4,Positive
+100,conscious,fikermand,0.1,0.5,Positive
+101,conscious,fikrmand,0.1,0.5,Positive
+102,conscious,fikr-mand,0.1,0.5,Positive
+103,conscious,fkrmand,0.1,0.5,Positive
+104,conscious,fkrmnd,0.1,0.5,Positive
+105,cool,thadho,0.35,0.65,Positive
+106,cool,thdho,0.35,0.65,Positive
+107,cooperative,madadgaar,0.0,0.0,Do Not Know
+108,cooperative,madadgar,0.0,0.0,Do Not Know
+109,cooperative,maddgar,0.0,0.0,Do Not Know
+110,cooperative,ta'awun knder,0.0,0.0,Do Not Know
+111,cooperative,tvawun-knder,0.0,0.0,Do Not Know
+112,crazy,deewano,-0.6,0.9,Negative
+113,crazy,dewano,-0.6,0.9,Negative
+114,criticise,tankeed,0.0,0.0,Do Not Know
+115,criticise,tanz,0.0,0.0,Do Not Know
+116,criticise,tnkeed,0.0,0.0,Do Not Know
+117,criticise,tnz,0.0,0.0,Do Not Know
+118,cunning,chalaak,0.0,0.7,Do Not Know
+119,cunning,tez tarrar,0.0,0.7,Do Not Know
+120,cunning,tez-taraar,0.0,0.7,Do Not Know
+121,deceive,dhokho,0.0,0.0,Do Not Know
+122,deceive,dhoko,0.0,0.0,Do Not Know
+123,deception,freb,0.0,0.0,Do Not Know
+124,dedicated,sarshaar,0.0,0.0,Do Not Know
+125,dedicated,waqf,0.0,0.0,Do Not Know
+126,dedicated,wqf,0.0,0.0,Do Not Know
+127,dedicated,wqf-thyal,0.0,0.0,Do Not Know
+128,destroy,barbad,-0.2,0.0,Negative
+129,destroy,berbad,-0.2,0.0,Negative
+130,destroy,brbaad,-0.2,0.0,Negative
+131,destroy,brbad,-0.2,0.0,Negative
+132,destroy,naas,-0.2,0.0,Negative
+133,destroy,naass,-0.2,0.0,Negative
+134,destroy,nass,-0.2,0.0,Negative
+135,destroy,tabah,-0.2,0.0,Negative
+136,destroy,taaraaj,-0.2,0.0,Negative
+137,destroy,tbaah,-0.2,0.0,Negative
+138,destroy,tbah,-0.2,0.0,Negative
+139,destroy,weeran,-0.2,0.0,Negative
+140,devoted,jaan nisar,0.0,0.0,Do Not Know
+141,devoted,wqf,0.0,0.0,Do Not Know
+142,dirty,gadlo,-0.6,0.8,Negative
+143,dirty,gando,-0.6,0.8,Negative
+144,dirty,gdlo,-0.6,0.8,Negative
+145,dirty,gndo,-0.6,0.8,Negative
+146,doubtful news,afwaah,-0.8,0.9,Negative
+147,doubtful news,afwah,-0.8,0.9,Negative
+148,doubtful news,afwah,-0.8,0.9,Negative
+149,doubtful news,afwahan,-0.8,0.9,Negative
+150,doubtful news,afwahn,-0.8,0.9,Negative
+151,drawing room,bethak,0.0,0.0,Do Not Know
+152,drawing room,ootak,0.0,0.0,Do Not Know
+153,drawing room,ootakoo,0.0,0.0,Do Not Know
+154,drawing room,ootakun,0.0,0.0,Do Not Know
+155,drawing room,otaak,0.0,0.0,Do Not Know
+156,easy,aasaan,0.433,0.833,Positive
+157,easy,Aasaan,0.433,0.833,Positive
+158,easy,Aasaan,0.433,0.833,Positive
+159,easy,aasan,0.433,0.833,Positive
+160,easy,aasan,0.433,0.833,Positive
+161,easy,asaan,0.433,0.833,Positive
+162,easy,savalo,0.433,0.833,Positive
+163,easy,sawalo,0.433,0.833,Positive
+164,easy,solo,0.433,0.833,Positive
+165,easy,swalo,0.433,0.833,Positive
+166,empty,khalee,-0.1,0.5,Negative
+167,empty,khali,-0.1,0.5,Negative
+168,empty,un-bharyal,-0.1,0.5,Negative
+169,encouraging,himat-dendr,0.0,0.0,Do Not Know
+170,encouraging,himath deendr,0.0,0.0,Do Not Know
+171,encouraging,himthaen,0.0,0.0,Do Not Know
+172,english_words,roman_sindhi_words,0.0,0.0,Do Not Know
+173,enhance,tarakee,0.0,0.0,Do Not Know
+174,enhance,trakee,0.0,0.0,Do Not Know
+175,excellent,sabh kha sutho,1.0,1.0,Positive
+176,fabulous,shaandaar,0.4,1.0,Positive
+177,fabulous,shandaar,0.4,1.0,Positive
+178,fabulous,shandar,0.4,1.0,Positive
+179,fair,insaaf waro,0.7,0.9,Positive
+180,fair,saaf suthro,0.7,0.9,Positive
+181,famous,jattal-sunjatal,0.5,1.0,Positive
+182,famous,mashahoor,0.5,1.0,Positive
+183,famous,naami graami,0.5,1.0,Positive
+184,fanatic,jnooni,-0.3,0.8,Negative
+185,fanatic,junoni,-0.3,0.8,Negative
+186,fanatic,junoonee,-0.3,0.8,Negative
+187,fanatic,junooni,-0.3,0.8,Negative
+188,fantastic,la jawab,0.4,0.9,Positive
+189,fantastic,lajawaab,0.4,0.9,Positive
+190,fantastic,la-jawab,0.4,0.9,Positive
+191,fast,taiz,0.2,0.6,Positive
+192,fast,tez,0.2,0.6,Positive
+193,fast,tezz,0.2,0.6,Positive
+194,filled,bhariyal,0.4,0.9,Positive
+195,filled,bharyal,0.4,0.9,Positive
+196,filled,bheryal,0.4,0.9,Positive
+197,filled,bhryal,0.4,0.9,Positive
+198,fine,sahee,0.417,0.5,Positive
+199,fine,sahi,0.417,0.5,Positive
+200,fine,theek,0.417,0.5,Positive
+201,fine,theek thaak,0.417,0.5,Positive
+202,fond,shokeen,0.0,0.0,Do Not Know
+203,friendly,dostana,0.375,0.5,Positive
+204,friendly,dostee waro,0.375,0.5,Positive
+205,friendly,dosti waro,0.375,0.5,Positive
+206,gain,wadhao,0.0,0.0,Do Not Know
+207,generous,sakhee,0.0,0.0,Do Not Know
+208,generous,sakhi,0.0,0.0,Do Not Know
+209,generous,skhee,0.0,0.0,Do Not Know
+210,generous,skhi,0.0,0.0,Do Not Know
+211,gentle,maanwaro,0.2,0.8,Positive
+212,gentle,maan-waro,0.2,0.8,Positive
+213,gentle,moaziz,0.2,0.8,Positive
+214,gentle,mohtram,0.2,0.8,Positive
+215,glad,khush,0.5,1.0,Positive
+216,glad,khushee,0.5,1.0,Positive
+217,good,bhalai,0.7,0.6,Positive
+218,good,bhalo,0.7,0.6,Positive
+219,good,bhlo,0.7,0.6,Positive
+220,good,chango,0.7,0.6,Positive
+221,good,sutho,0.7,0.6,Positive
+222,great,azeem,0.8,0.75,Positive
+223,great,azim,0.8,0.75,Positive
+224,great,wado,0.8,0.75,Positive
+225,great,zabardast,0.8,0.75,Positive
+226,great,zbrdast,0.8,0.75,Positive
+227,great,zbrdst,0.8,0.75,Positive
+228,half,adh,-0.167,0.167,Negative
+229,half,adh,-0.167,0.167,Negative
+230,handsome,haseen,0.5,1.0,Positive
+231,handsome,suhno,0.5,1.0,Positive
+232,happy,khush,0.8,1.0,Positive
+233,happy,khush,0.8,1.0,Positive
+234,happy,raahat,0.8,1.0,Positive
+235,happy,raaht,0.8,1.0,Positive
+236,hardworking,jakhoree,0.0,0.0,Do Not Know
+237,hardworking,jakhori,0.0,0.0,Do Not Know
+238,hardworking,mehnti,0.0,0.0,Do Not Know
+239,hardworking,mhntee,0.0,0.0,Do Not Know
+240,harsh,sakht,-0.2,0.7,Negative
+241,harsh,sakhtgeer,-0.2,0.7,Negative
+242,help,hathee,0.0,0.0,Do Not Know
+243,help,hath-wandaen,0.0,0.0,Do Not Know
+244,help,hthee,0.0,0.0,Do Not Know
+245,help,madad,0.0,0.0,Do Not Know
+246,help,mdad,0.0,0.0,Do Not Know
+247,helping,mddgaar,0.0,0.0,Do Not Know
+248,high,mathabharo,0.16,0.54,Positive
+249,high,mathahein,0.16,0.54,Positive
+250,high,mathe,0.16,0.54,Positive
+251,honest,ameen,0.6,0.9,Positive
+252,honest,amin,0.6,0.9,Positive
+253,honest,eimandaar,0.6,0.9,Positive
+254,honest,eimandar,0.6,0.9,Positive
+255,honest,emandaar,0.6,0.9,Positive
+256,honest,emandar,0.6,0.9,Positive
+257,humbel,aajz,0.0,0.0,Do Not Know
+258,humble,aajiz,-0.2,0.4,Negative
+259,humble,aajzee waro,-0.2,0.4,Negative
+260,humble,nehtho,-0.2,0.4,Negative
+261,humble,nimano,-0.2,0.4,Negative
+262,ill,beemar,-0.5,1.0,Negative
+263,ill,bemar,-0.5,1.0,Negative
+264,increase,vadharo,0.0,0.0,Do Not Know
+265,increase,waadh,0.0,0.0,Do Not Know
+266,increase,wadhao,0.0,0.0,Do Not Know
+267,increase,wadharo,0.0,0.0,Do Not Know
+268,informative,maloomatee,0.0,0.0,Do Not Know
+269,informative,maloomati,0.0,0.0,Do Not Know
+270,intelligent,zaheen,0.8,0.9,Positive
+271,intelligent,zahin,0.8,0.9,Positive
+272,interested,dilchasp,0.25,0.5,Positive
+273,keen,shaeq,0.0,0.0,Do Not Know
+274,keen,shokeen,0.0,0.0,Do Not Know
+275,kind,mehrbaan,0.6,0.9,Positive
+276,kind,mehrban,0.6,0.9,Positive
+277,kind,mushfiq,0.6,0.9,Positive
+278,kind,nrm,0.6,0.9,Positive
+279,kind,rahmdil,0.6,0.9,Positive
+280,kind,shafeeq,0.6,0.9,Positive
+281,leader,agwaan,0.0,0.0,Do Not Know
+282,leader,agwan,0.0,0.0,Do Not Know
+283,leadership,agwani,0.0,0.0,Do Not Know
+284,least,sabh kha ghat,-0.3,0.4,Negative
+285,less,ghat,-0.167,0.067,Negative
+286,less,thoro,-0.167,0.067,Negative
+287,lesser,wdheek ghat,0.0,0.5,Do Not Know
+288,liberal,chhurwaag,0.0,0.0,Do Not Know
+289,liberal,churwaag,0.0,0.0,Do Not Know
+290,libral,azad khyal,0.0,0.0,Do Not Know
+291,libral,chhurwagee,0.0,0.0,Do Not Know
+292,libral,chhurwagi,0.0,0.0,Do Not Know
+293,lost,gumm,0.0,0.0,Do Not Know
+294,lost,winjayal,0.0,0.0,Do Not Know
+295,moral,ikhlak,0.0,0.25,Do Not Know
+296,moral,ikhlakee,0.0,0.25,Do Not Know
+297,moral,ikhlaq,0.0,0.25,Do Not Know
+298,more,ghana,0.5,0.5,Positive
+299,more,ghane,0.5,0.5,Positive
+300,more,ghaney,0.5,0.5,Positive
+301,more,ghano,0.5,0.5,Positive
+302,more,ghne,0.5,0.5,Positive
+303,more,ghney,0.5,0.5,Positive
+304,much,wadheek,0.2,0.2,Positive
+305,much,zyada,0.2,0.2,Positive
+306,near,qareeb,0.1,0.4,Positive
+307,near,qarib,0.1,0.4,Positive
+308,near,qreeb,0.1,0.4,Positive
+309,near,qreeb,0.1,0.4,Positive
+310,near,wejho,0.1,0.4,Positive
+311,negative,inkari,-0.3,0.4,Negative
+312,negative,na-kari,-0.3,0.4,Negative
+313,new,nao,0.136,0.455,Positive
+314,nice,pyaaro,0.6,1.0,Positive
+315,nice,pyaree,0.6,1.0,Positive
+316,nice,pyari,0.6,1.0,Positive
+317,nice,pyaro,0.6,1.0,Positive
+318,nice,suthee,0.6,1.0,Positive
+319,not,na aahe,0.0,0.0,Do Not Know
+320,not,na aahey,0.0,0.0,Do Not Know
+321,not,na ahe,0.0,0.0,Do Not Know
+322,not,nahe,0.0,0.0,Do Not Know
+323,not,nahey,0.0,0.0,Do Not Know
+324,not certain,kachee,-0.107,0.571,Negative
+325,not certain,kachi,-0.107,0.571,Negative
+326,not certain,kchee,-0.107,0.571,Negative
+327,not certain,kchi,-0.107,0.571,Negative
+328,not complete,na mukamal,-0.05,0.4,Negative
+329,not complete,na mukamil,-0.05,0.4,Negative
+330,not filled,adh-bharyal,-0.2,0.9,Negative
+331,not filled,adh-bharyal ,-0.2,0.9,Negative
+332,not filled,an-bharyal,-0.2,0.9,Negative
+333,not good,kharab,-0.35,0.6,Negative
+334,not good,khrab,-0.35,0.6,Negative
+335,not good,maatho,-0.35,0.6,Negative
+336,not satisfied,ger mutmaen,-0.25,1.0,Negative
+337,not true,galt,-0.175,0.65,Negative
+338,not true,koor,-0.175,0.65,Negative
+339,not true,korr,-0.175,0.65,Negative
+340,not true,sach nahe,-0.175,0.65,Negative
+341,notorious,bdnaam,0.0,0.0,Do Not Know
+342,notorious,bdnam,0.0,0.0,Do Not Know
+343,notorious,budnam,0.0,0.0,Do Not Know
+344,notorious,khuwaar,0.0,0.0,Do Not Know
+345,notorious,khuwar,0.0,0.0,Do Not Know
+346,notorious,khuwari,0.0,0.0,Do Not Know
+347,notorious,khwar,0.0,0.0,Do Not Know
+348,notorous,badnaam,0.0,0.0,Do Not Know
+349,old,porho,0.1,0.2,Positive
+350,old,purano,0.1,0.2,Positive
+351,old,zaeef,0.1,0.2,Positive
+352,older,waddo,0.167,0.333,Positive
+353,oldest,sabh kha waddo,0.0,0.0,Do Not Know
+354,open minded,bedaar dimag,0.0,0.5,Do Not Know
+355,open minded,kushada dil,0.0,0.5,Do Not Know
+356,passionate,josh waro,-0.05,0.85,Negative
+357,passionate,purjosh,-0.05,0.85,Negative
+358,pessimist,mayousi pasand,0.0,0.0,Do Not Know
+359,place,jae,0.0,0.0,Do Not Know
+360,polite,ba ikhlaq,0.0,0.0,Do Not Know
+361,polite,ba-ikhlaq,0.0,0.0,Do Not Know
+362,powerful,takar waro,0.3,1.0,Positive
+363,powerful,taqatwar,0.3,1.0,Positive
+364,powerful,taqatwer,0.3,1.0,Positive
+365,powerful,taqatwr,0.3,1.0,Positive
+366,powerful,taqtwar,0.3,1.0,Positive
+367,powerful,taqtwr,0.3,1.0,Positive
+368,progress,tarakee,0.0,0.0,Do Not Know
+369,protest,ahtejaj,0.0,0.0,Do Not Know
+370,protest,ihtjaj,0.0,0.0,Do Not Know
+371,punctual,wqt jo paband,0.0,0.0,Do Not Know
+372,puntual,paaband,0.0,0.0,Do Not Know
+373,puntual,paband,0.0,0.0,Do Not Know
+374,quick,taiz,0.333,0.5,Positive
+375,raise,wadhao,0.0,0.0,Do Not Know
+376,rebuke,malaamat,0.0,0.0,Do Not Know
+377,regular,paaband,0.0,0.077,Do Not Know
+378,remarkable,saarah jogo,0.75,0.75,Positive
+379,remarkable,tareef laeq,0.75,0.75,Positive
+380,remarkable,yaadgaar,0.75,0.75,Positive
+381,responsible,zimedar,0.2,0.55,Positive
+382,responsible,zimewaar,0.2,0.55,Positive
+383,right,sahe,0.286,0.536,Positive
+384,right,sahee,0.286,0.536,Positive
+385,right,sahi,0.286,0.536,Positive
+386,right,shee,0.286,0.536,Positive
+387,rude,bdtameezee,-0.3,0.6,Negative
+388,rude,bdtameezi,-0.3,0.6,Negative
+389,rude,bdtamizee,-0.3,0.6,Negative
+390,rude,bdtamizi,-0.3,0.6,Negative
+391,rude,skht dil,-0.3,0.6,Negative
+392,satisfied,mutmaen,0.5,1.0,Positive
+393,satisfied,mutmain,0.5,1.0,Positive
+394,satisfied,prskoon,0.5,1.0,Positive
+395,satisfied,pursukoon,0.5,1.0,Positive
+396,satisfied,taskeen,0.5,1.0,Positive
+397,satisfied,tskeen,0.5,1.0,Positive
+398,shameful,khuwar,0.0,0.0,Do Not Know
+399,shameful,sharam waro,0.0,0.0,Do Not Know
+400,shameful,sharmnaak,0.0,0.0,Do Not Know
+401,shameful,zaleel,0.0,0.0,Do Not Know
+402,shameful,zillat waro,0.0,0.0,Do Not Know
+403,sick,beemaar,-0.714,0.857,Negative
+404,sick,beemar,-0.714,0.857,Negative
+405,sincere,sacho,0.5,0.5,Positive
+406,sincere,scho,0.5,0.5,Positive
+407,slow,aahiste,-0.3,0.4,Negative
+408,slow,dharo,-0.3,0.4,Negative
+409,slow,dhro,-0.3,0.4,Negative
+410,slow,sust,-0.3,0.4,Negative
+411,speedy,tez raftar,0.0,0.0,Do Not Know
+412,straightforward,sidho,0.375,0.375,Positive
+413,strict,sakht,0.0,0.0,Do Not Know
+414,strict,sakht,0.0,0.0,Do Not Know
+415,strict,skht,0.0,0.0,Do Not Know
+416,stupid,bewakoofee,-0.8,1.0,Negative
+417,stupid,bewakoofi,-0.8,1.0,Negative
+418,stupid,Bewaqoof,-0.8,1.0,Negative
+419,stupid,bewaqoofi,-0.8,1.0,Negative
+420,stupid,bewkoofi,-0.8,1.0,Negative
+421,suitable,munasib,0.55,0.75,Positive
+422,suitable,munasib,0.55,0.75,Positive
+423,sweet,mitho,0.35,0.65,Positive
+424,the best,behtreen,1.0,0.3,Positive
+425,truthful,sachaar,0.5,0.5,Positive
+426,un aware,bekhbr,0.25,0.25,Positive
+427,un aware,magan,0.25,0.25,Positive
+428,un aware,mast,0.25,0.25,Positive
+429,un aware,mgn,0.25,0.25,Positive
+430,un aware ,maggan,0.25,0.25,Positive
+431,un aware ,mst,0.25,0.25,Positive
+432,unfair,be insafo,-0.5,1.0,Negative
+433,unfair,beinsafo,-0.5,1.0,Negative
+434,unhappy,nakhush,-0.6,0.9,Negative
+435,unsatisfied,ger mutmaen,0.0,0.0,Do Not Know
+436,unwell,beemaar,0.0,0.0,Do Not Know
+437,unwell,beemar,0.0,0.0,Do Not Know
+438,use,istemaal,0.0,0.0,Do Not Know
+439,use,istemal,0.0,0.0,Do Not Know
+440,useful,faedemand,0.3,0.0,Positive
+441,useful,faedemand,0.3,0.0,Positive
+442,useful,faedo,0.3,0.0,Positive
+443,useful,faedo,0.3,0.0,Positive
+444,useful,faidemand,0.3,0.0,Positive
+445,useful,mufeed,0.3,0.0,Positive
+446,useless,bekaar,-0.5,0.2,Negative
+447,useless,bekar,-0.5,0.2,Negative
+448,useless,fuzol,-0.5,0.2,Negative
+449,useless,fuzool,-0.5,0.2,Negative
+450,useless,fzool,-0.5,0.2,Negative
+451,useless,ger mufeed,-0.5,0.2,Negative
+452,useless,nikamo,-0.5,0.2,Negative
+453,useless,nikmo,-0.5,0.2,Negative
+454,very,dadho,0.2,0.3,Positive
+455,very,dadho,0.2,0.3,Positive
+456,very,ziada,0.2,0.3,Positive
+457,waste,dadho,-0.2,0.0,Negative
+458,waste,ziyan,-0.2,0.0,Negative
+459,waste,ziyan,-0.2,0.0,Negative
+460,waste,zyaan,-0.2,0.0,Negative
+461,waste,zyan,-0.2,0.0,Negative
+462,waste,ziyaan,-0.2,0.0,Negative
+463,weak,dubro,-0.375,0.625,Negative
+464,weak,kamzor,-0.375,0.625,Negative
+465,weak,kmzor,-0.375,0.625,Negative
+466,weak,nabal,-0.375,0.625,Negative
+467,weak,nbl,-0.375,0.625,Negative
+468,welfare,bhalae,0.0,0.0,Do Not Know
+469,welfare,bhlaee,0.0,0.0,Do Not Know
+470,worse,achho,-0.4,0.6,Negative
+471,worse,bdtar,-0.4,0.6,Negative
+472,worse,bdtr,-0.4,0.6,Negative
+473,worst,bdtreen,-1.0,1.0,Negative
+474,worst,wadhek khrab,-1.0,1.0,Negative
+475,wrong,galat,-0.5,0.9,Negative
+476,wrong,glt,-0.5,0.9,Negative
+477,wrong doings,bdkaaree,-0.5,0.9,Negative
+478,wrong doings,bdkaari,-0.5,0.9,Negative
+479,wrong doings,bdkaree,-0.5,0.9,Negative
+480,wrong doings,bdkari,-0.5,0.9,Negative
+481,wrong doings,glt karyoun,-0.5,0.9,Negative
+482,wrong doings,sabh kha khrab,-0.5,0.9,Negative
+483,zealous,josh waro,0.0,0.0,Do Not Know
+484,zealous,pur-josh,0.0,0.0,Do Not Know
