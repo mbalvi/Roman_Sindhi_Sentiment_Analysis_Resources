@@ -24,7 +24,7 @@
 'nojawaan' : 0.0
 'barbaad' : -0.4
 'nojawaan nasl' : 0.0
-bdnaam' : -0.5
+'bdnaam' : -0.5
 'ootaak' : 0.0
 'beemaar' : -0.5
 'pako sathee' : 0.6
